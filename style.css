@@ -1,0 +1,15 @@
+nav {
+    /* if nav has class of home, style id of home to active state */
+    &.home #home {
+        ...
+    }
+
+    /* if nav has class of about, style id of about to active state */
+    &.about #about {
+        ...
+    }
+}
+
+.down {
+	padding-top: 50px;
+}
