@@ -110,14 +110,5 @@ var vill_items = [{
 	description: 'sky.html'
 } , {	image: 'img/villagers/15.png',
 	description: 'sky.html'
-} , {	image: 'img/villagers/20.png',
-	description: 'sky.html'
-} , {	image: 'img/villagers/21.png',
-	description: 'sky.html'
-} , {	image: 'img/villagers/22.png',
-	description: 'sky.html'
-} , {
-	image: 'img/villagers/23.png',
-	description: 'sky.html'
-} , {
+
 }];
